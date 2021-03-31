@@ -1,4 +1,4 @@
-package com.noob.nanonews.data
+package com.noob.nanonews.data.model
 
 data class Source(
     val id: Any,
